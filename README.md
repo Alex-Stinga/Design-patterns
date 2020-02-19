@@ -6,3 +6,16 @@ There are 3 types of design patterns:
 2. Structural  
 3. Behavioural  
 
+
+| CREATIONAL           | STRUCTURAL                   | BEHAVIOURAL               |
+|----------------------|------------------------------|---------------------------|
+| Factory              | Adapter                      | Template method           |
+| Singleton            | Composite                    | Mediator                  |
+| Builder              | Proxy                        | Chain of respnsability    |
+| Prototype            | Flyweight                    | Observer                  |
+| Abstract Factory     | Facade                       | Strategy                  |
+|                      | Bridge                       | Command                   |
+|                      | Decorator                    | State                     |
+|                      |                              | Visitor                   |
+|                      |                              | Iterator                  |
+|                      |                              | Interpretor               |
